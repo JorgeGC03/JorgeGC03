@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently working at **Adding Technology**
 
-- 🔭 I’m currently doing my practices at **SNGULAR People SA**
-
 - 🌱 I’m currently learning **Java, MariaDB, HTML5, CSS3, JS, ChartJs and Firebase**
 
 - 👯 I’m looking to collaborate on **front-end, back-end projects**
