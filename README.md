@@ -9,7 +9,7 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I’m currently studying DAW at **CIPFP Mislata**
+- 🌱 I’m currently working at **Adding Technology**
 
 - 🔭 I’m currently doing my practices at **SNGULAR People SA**
 
